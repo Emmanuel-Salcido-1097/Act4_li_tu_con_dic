@@ -1,5 +1,5 @@
 # Act4_li_tu_con_dic
-Act 4 trabajando con lista, tuplas, conjuntos y diccionario
+Act 4 trabajando con listaa, tuplas, conjuntos y diccionario
 ## Ejemplos de listas en python  link w3schools
 - Codigo
 - ![image](https://github.com/user-attachments/assets/d37295d5-b846-4266-b8f8-c7619c4521b5)
